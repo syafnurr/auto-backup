@@ -3,7 +3,7 @@
 # Set variables
 BACKUP_DIR="/opt/backup/backup"
 REPO_DIR="/opt/backup/auto-backup"
-SOURCE_DIR="/root/images"
+SOURCE_DIR="/compro/develop"
 DATE=$(date +"%Y%m%d%H%M")
 
 # Create a backup directory if it doesn't exist
